@@ -1,9 +1,6 @@
-# ToDoList
-Todo List web application Created using Node, EJS and MongoDB
-
 # TODOLIST WEB APPLICATION USING NODE.js, EJS, MongoDB.
 
-** Full Application can be accessed here at ** [](https://mighty-temple-83586.herokuapp.com/)
+Full Application can be accessed here at [https://mighty-temple-83586.herokuapp.com/](https://mighty-temple-83586.herokuapp.com/)
 
 -----------------------------------------------------------------------------------------------
 
